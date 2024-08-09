@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+  🌱 Aprendendo mais sobre tecnologias FullStack.
 </p>
 
 <p align="left">
